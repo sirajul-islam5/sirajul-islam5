@@ -30,5 +30,4 @@ MSc in Chemistry graduate transitioning into Data Analytics — I build projects
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajul-islam5&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajul-islam5&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajul-islam5&show_icons=true&theme=tokyonight&cache_seconds=1800)
