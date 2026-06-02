@@ -17,24 +17,26 @@ MSc in Chemistry graduate transitioning into Data Analytics — I build projects
 
 ---
 
-## 📂 Key Projects:
+## 🔗 Connect With Me
 
-### 🏥 Hospital Bed & Patient Flow Intelligence | Power BI
-> Analyzed 200 patient records across 6 departments — exposed 43.5% Emergency overload and Aug–Sep wait spikes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-🔗 [View Project](https://github.com/sirajul-islam5/hospital-bed-and-patient-flow-intelligence-powerbi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
----
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_URL)
 
-### 👥 Employee Management System | SQL
-> Built a relational MySQL database from scratch with 10+ queries covering JOINs, subqueries, payroll, and salary analysis.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-🔗 [View Project](https://github.com/sirajul-islam5/employee-management-system-sql)
+
 
 ---
 
-### 🛒 E-commerce KPI & Operations Dashboard | Excel
-> Multi-KPI Excel dashboard tracking revenue, orders, ratings, and shipping across 5 sales channels.
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 
 🔗 [View Project](https://github.com/sirajul-islam5/e-commerce-kpi-and-operations-dashboard-excel)
 
