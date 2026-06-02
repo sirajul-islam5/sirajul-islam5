@@ -20,11 +20,8 @@ MSc in Chemistry graduate transitioning into Data Analytics — I build projects
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_URL)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 
@@ -33,15 +30,7 @@ MSc in Chemistry graduate transitioning into Data Analytics — I build projects
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-
-🔗 [View Project](https://github.com/sirajul-islam5/e-commerce-kpi-and-operations-dashboard-excel)
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajul-islam5&theme=dark&show_icons=true&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirajul-islam5&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajul-islam5&layout=compact&theme=tokyonight"/>
+</p>
