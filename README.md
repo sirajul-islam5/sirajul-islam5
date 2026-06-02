@@ -2,16 +2,11 @@
 
 ## 🙋 About Me
 
-📊 I work with SQL, Power BI, Excel, and data visualization to transform raw information into actionable insights.
-
-🧪 My academic background in Chemistry helped me develop analytical thinking, attention to detail, and structured problem-solving skills.
-
-📈 I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering meaningful insights.
-
-🎯 Currently seeking entry-level opportunities in Analytics, Business Intelligence, Administration, or Operations.
-
+📊 I work with SQL, Power BI, Excel, and data visualization to transform raw information into actionable insights.   
+🧪 My academic background in Chemistry helped me develop analytical thinking, attention to detail, and structured problem-solving skills.   
+📈 I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering meaningful insights.   
+🎯 Currently seeking entry-level opportunities in Analytics, Business Intelligence, Administration, or Operations.   
 🐍 Currently expanding into Python for data analysis and automation.
-
 
 📍 Feni, Bangladesh 
 
@@ -27,7 +22,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/md-sirajul-islam57)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github.com/sirajul-islam5)
