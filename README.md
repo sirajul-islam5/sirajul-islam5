@@ -3,7 +3,7 @@
 ## 🙋 About Me:
 MSc in Chemistry graduate transitioning into Data Analytics — I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering the insight. Currently seeking entry-level roles in Analytics, Business Intelligence, Administration or Operations. Currently expanding into Python for data analysis.
 
-📍 Feni, Bangladesh &nbsp;|&nbsp; 
+📍 Feni, Bangladesh 
 
 ---
 
@@ -24,12 +24,3 @@ MSc in Chemistry graduate transitioning into Data Analytics — I build projects
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](sirajulislam0051)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sirajulislam005007@gmail.com)
 
-
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirajul-islam5&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajul-islam5&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=sirajul-islam5&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=sirajul-islam5&layout=compact&theme=tokyonight)
