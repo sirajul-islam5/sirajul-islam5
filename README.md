@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Sirajul Islam! 👋
 
 ## 🙋 About Me:
-MSc in Chemistry graduate turned Data Analyst — I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering the insight. Currently expanding into Python for data analysis. Currently seeking roles in Analytics, Business Intelligence, or Operations. 
+MSc in Chemistry graduate transitioning into Data Analytics — I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering the insight. Currently seeking entry-level roles in Analytics, Business Intelligence, or Operations. Currently expanding into Python for data analysis.
 
 📍 Feni, Bangladesh &nbsp;|&nbsp; 📧 sirajulislam005007@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/md-sirajul-islam57)
 
