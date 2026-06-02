@@ -1,6 +1,7 @@
 # Hi there, I'm Md. Sirajul Islam! 👋
 
-## 🙋 About Me:
+## 🙋 About Me
+
 📊 I work with SQL, Power BI, Excel, and data visualization to transform raw information into actionable insights.
 
 🧪 My academic background in Chemistry helped me develop analytical thinking, attention to detail, and structured problem-solving skills.
