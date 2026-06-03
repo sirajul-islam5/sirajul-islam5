@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🤝 Connect With Me:
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/md-sirajul-islam57)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github.com/sirajul-islam5)
