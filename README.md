@@ -7,7 +7,7 @@
 📈 I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering meaningful insights.      
 🎯 Currently seeking entry-level opportunities in Analytics, Business Intelligence, Administration, or Operations.       
 🐍 Currently expanding into Python for data analysis and automation.      
-⚽ Football lover and a huge fan of the Spanish midfielder Pedri González.   
+⚽ Football lover and a huge fan of Pedri González.   
 
 ---
 
