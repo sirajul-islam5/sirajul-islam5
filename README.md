@@ -2,10 +2,7 @@
 
 ## 🙋 About Me
 
-📊 I work with SQL, Power BI, Excel, and data visualization to transform raw information into actionable insights.   
-🧪 My academic background in Chemistry helped me develop analytical thinking, attention to detail, and problem-solving skills.   
-📈 I build projects in Power BI, SQL, and Excel by designing the problem, building the dataset, and delivering meaningful insights.               
-⚽ I am a football lover and a huge fan of Pedri González.   
+I work with Power BI, Excel, SQL and data visualization to transform raw information into actionable insights. My academic background in Chemistry helped me develop analytical thinking, attention to detail, and problem-solving skills. I build projects in Power BI, Excel, and SQL by designing the problem, building the dataset, and delivering meaningful insights.      
 
 ---
 
