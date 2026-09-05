@@ -17,3 +17,4 @@ I practice using analytical tools to transform raw information into actionable i
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
