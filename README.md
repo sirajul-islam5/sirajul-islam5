@@ -7,7 +7,7 @@ I practice using analytical tools to transform raw information into actionable i
 
 ---
 
-## Tools & Tech 
+## Tools & Tech  
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
